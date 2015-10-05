@@ -1,15 +1,15 @@
 <h2>Project Documentation<h2>
 --------------------------
 This assignment is to automate some scenarios on www.walmart.com, scenarios includes:
-* 1. Login using existing account
-* 2. Perform a search on home page from a pool of key words given below
-* 3. Identify an item from the result set that you can add to cart
-* 4. Add the item to cart
-* 5. Validate that item added is present in the cart and is the only item in the cart (not implemented yet)
+* Login using existing account
+* Perform a search on home page from a pool of key words given below
+* Identify an item from the result set that you can add to cart
+* Add the item to cart
+* Validate that item added is present in the cart and is the only item in the cart (not implemented yet)
 
 Test data includes:
-* 1. Account details: email address and password
-* 2. Search terms: tv, socks, dvd, toys, iphone
+* Account details: email address and password
+* Search terms: tv, socks, dvd, toys, iphone
 
 Name of the project: Example
 Name of the file: Solution.java
