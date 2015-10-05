@@ -20,9 +20,9 @@ Name of the file: Solution.java
 
 ```
 I didn't finish implementing automation test for scenario #5 
-If I have more time, I will install junit package on my eclipse and implementing by asserting the quantity of the items in the shopping cart
+If I have more time, I will install junit package on my eclipse and implementing by asserting the quantity of the items in the shopping cart.
 
-If I have more time, I would also consider the timeout issue of the web loading.
+I would also consider the timeout issue of the web loading.
 
 Thanks
 Cassie
