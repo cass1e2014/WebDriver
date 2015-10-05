@@ -1,6 +1,7 @@
-# WebDriver
+<h1>WebDriver Documentation<h1>
+--------------------------
 This assignment is to automate some scenarios on www.walmart.com, scenarios includes:
-1. Login using existing account</n>
+1. Login using existing account
 2. Perform a search on home page from a pool of key words given below
 3. Identify an item from the result set that you can add to cart
 4. Add the item to cart
