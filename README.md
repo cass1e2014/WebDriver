@@ -1,4 +1,4 @@
-<h1>WebDriver Documentation<h1>
+<h2>Project Documentation<h2>
 --------------------------
 This assignment is to automate some scenarios on www.walmart.com, scenarios includes:
 1. Login using existing account
