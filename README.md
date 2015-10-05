@@ -11,8 +11,10 @@ Test data includes:
 * Account details: email address and password
 * Search terms: tv, socks, dvd, toys, iphone
 
+```
 Name of the project: Example
 Name of the file: Solution.java
+```
 
 I didn't finish implementing automation test for scenario #5 
 If I have more time, I will install junit package on my eclipse and implementing by asserting the quantity of the items in the shopping cart
